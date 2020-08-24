@@ -1,4 +1,7 @@
+---
 title: My First Blog Post
+date: 2020-08-24
+---
 
 ## Hello World!
 
